@@ -1,4 +1,4 @@
 # Project1_486
-##Research Project for GES 687 
+##Research Project for GES 687##
 
-###Topic 
+###Topic###
