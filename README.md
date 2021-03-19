@@ -21,6 +21,6 @@ The outputs created for this specific project will be the values I receive for t
 
 
 ![Howard County SF Zoning Map](https://images/Howard County Single Fam![image](https://user-images.githubusercontent.com/78118883/111846324-e9b3f600-88dc-11eb-8289-33385ffdafb2.png)
-ily Zoning Pic.JPG)
+
 
 
