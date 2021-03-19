@@ -14,3 +14,9 @@ My overall project will compare the income dissimilarity indexes of the differen
 
 ## What outputs will be created? 
 The outputs created for this specific project will be the values I receive for the total population making less than $30,000/yr, as well as the values showing where single family zoning restrictions are present. For the overall project, my output will be looking at the dissimilarity indexes present for the various census tracts. 
+
+
+## Final Output 
+![Howard County Poor Pop Map](https://images/GES 687 Project 1 Pic.JPG)
+
+![Howard County SF Zoning Map](https://images/Howard County Single Family Zoning Pic.JPG)
