@@ -17,6 +17,10 @@ The outputs created for this specific project will be the values I receive for t
 
 
 ## Final Output 
-![Howard County Poor Pop Map](https://images/GES 687 Project 1 Pic.JPG)
+![Howard County Poor Pop Map](https://user-images.githubusercontent.com/78118883/111846271-d0ab4500-88dc-11eb-8720-27896f8b7147.png)
 
-![Howard County SF Zoning Map](https://images/Howard County Single Family Zoning Pic.JPG)
+
+![Howard County SF Zoning Map](https://images/Howard County Single Fam![image](https://user-images.githubusercontent.com/78118883/111846324-e9b3f600-88dc-11eb-8289-33385ffdafb2.png)
+ily Zoning Pic.JPG)
+
+
