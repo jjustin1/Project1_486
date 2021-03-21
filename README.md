@@ -1,7 +1,7 @@
 # Project1_486: *Research Project for GES 687*
 
 ## Topic
-The topic of my research is to estimate whether Single-Family Zoning Restrictions (commonly referred to as "R1 zoning restrictions") influences resedential segregation by decreasing housing supply and affordability for those who are lower-income.
+The topic of my research is to estimate whether Single-Family Zoning Restrictions (commonly referred to as "R1 zoning restrictions") influences resedential segregation by spatially seperating poor and non-poor residents.
 
 ## What is the data & Where is the data coming from? 
 To do my project, I will take data on zoning policy that details where R1-zoning restrictions are present across the Baltimore region and then compare it to demographic data obtained from the Maryland Census to compare the various characteristics of neighborhoods that operate within or outside of single family zoning restrictions. Zoning data was obtained from Real Property Datasets available at from the Maryland Department of Planning, while data on community characterstics was obtained from the 2018 ACS survey. 
