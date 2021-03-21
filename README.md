@@ -1,13 +1,14 @@
 # Project1_486: *Research Project for GES 687*
 
 ## Topic
-The topic of my research is to estimate whether Single-Family Zoning Restrictions (commonly referred to as "R1 zoning restrictions") influences resedential segregation by spatially seperating poor and non-poor residents.
+The topic of my research is to estimate whether Single-Family Zoning Restrictions (commonly referred to as "R1 zoning restrictions") influences resedential segregation in the Baltimore Metropolitan Area by spatially seperating poor and non-poor residents. For this project, I am specfically comparing single-family zoning in Howard County to the number of poor people residing in different Census tracts.
 
 ## What is the data & Where is the data coming from? 
-To do my project, I will take data on zoning policy that details where R1-zoning restrictions are present across the Baltimore region and then compare it to demographic data obtained from the Maryland Census to compare the various characteristics of neighborhoods that operate within or outside of single family zoning restrictions. Zoning data was obtained from Real Property Datasets available at from the Maryland Department of Planning, while data on community characterstics was obtained from the 2018 ACS survey. 
+To do my project, I will create zoning maps that details where single-family zoning restrictions are present across the Baltimore region and then compare it to demographic data obtained from the Maryland Census that shows characteristics of neighborhoods that either do or do not have single family zoning restrictions.
+For this project, Zoning data was obtained from Real Property Datasets available at from the Maryland Department of Planning, while data on community characterstics was obtained from the 2018 ACS survey. 
 
 ## Any necessary transformations or subsets? 
-The only transformations necessary will be when creating maps that detail Maryland's zoning policy for different counties. 
+The only transformations necessary will be when creating maps that detail Maryland's zoning policy for different counties. For this first project, I am only choosing to analyze data from Howard County, MD. 
 
 ## What is the analysis that will be performed? 
 My overall project will compare the income dissimilarity indexes of the different census tracts that operate under or outside of single-family zoning restrictions, effectively estimating the degree of income segregation present within the different counties. Once these indexes are obtained, I will construct a linear probability model  to measure the likelihood that a census tract utilizes single-family zoning restrictions (given different levels of resedential segregation) by performing binary logit regression. My unit of analysis for the study will be the individual census tracts that make up all of the Baltimore Metropolitan Statistical Region (Carroll County, Howard County, Queen Anne's County, Harford County, Baltimore County, Baltimore City, Anne Arundel County)
