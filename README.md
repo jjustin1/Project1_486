@@ -11,13 +11,13 @@ For this project, Zoning data was obtained from Real Property Datasets available
 The only transformations necessary will be when creating maps that detail Maryland's zoning policy for different counties. For this first project, I am only choosing to analyze data from Howard County, MD. 
 
 ## What is the analysis that will be performed? 
-My overall project will compare the income dissimilarity indexes of the different census tracts that operate under or outside of single-family zoning restrictions, effectively estimating the degree of income segregation present within the different counties. Once these indexes are obtained, I will construct a linear probability model  to measure the likelihood that a census tract utilizes single-family zoning restrictions (given different levels of resedential segregation) by performing binary logit regression. My unit of analysis for the study will be the individual census tracts that make up all of the Baltimore Metropolitan Statistical Region (Carroll County, Howard County, Queen Anne's County, Harford County, Baltimore County, Baltimore City, Anne Arundel County)
+My overall project will compare the ratios of both rich to nonrich populations and poor-to-nonpoor populations within the various census tracts. Once these variables have been obtained, regresson analysis will be performed to estimate the relationhship existing between the proportion of Single-Family zoning in a census tract the proportion of poor and rich people present in that census tract. My model will attempt to control for factors such as educational attainment, hosuing costs, race, and unemployment. My unit of analysis for the study will be the individual census tracts that make up the 7 counties in the Baltimore Metropolitan Statistical Region (Carroll County, Howard County, Queen Anne's County, Harford County, Baltimore County, Baltimore City, Anne Arundel County)
 
 
 ***However, because this is only my first project I chose to just compare the total amount of single family zoning present in Howard County to the total number of people making less than $30,000/yr in each census tract (essentially calculating the number of poor people in a given area).***
 
 ## What outputs will be created? 
-The outputs for my overall project would be both the dissimilarity index estimating how segregated census tracts are from eachother, as well as the values estimating the overall probability that an income segregated community operates within or outside of Single-Family zoning restrictions. 
+The outputs for my overall project would be both the ratio variables indicating the proportion of rich and poor populations, as well as a variable estimating the proportion of resedential property that has single-family zoning restrictions. 
 
 For this first project, my outputs will be the values I receive for the total population making less than $30,000/yr, as well as the values showing where single family zoning restrictions are present. 
 
