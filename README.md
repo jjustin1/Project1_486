@@ -1,4 +1,4 @@
-# Project1_486: *Research Project for GES 687*
+# Project1_486: *Research Project 1 for GES 687*
 
 ## Topic
 The topic of my research is to estimate whether Single-Family Zoning Restrictions (commonly referred to as "R1 zoning restrictions") influences resedential segregation in the Baltimore Metropolitan Area by spatially seperating poor and non-poor residents. For this project, I am specfically comparing single-family zoning in Howard County to the number of poor people residing in different Census tracts.
